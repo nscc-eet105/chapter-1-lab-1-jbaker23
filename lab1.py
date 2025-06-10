@@ -1,0 +1,7 @@
+print ("Anonymity reveals itself in this verse of mine")
+print ("The Platonic philicity is what makes it rhyme")
+print ("Heart has had his hunger now fed,")
+print ("Alive again rises this body stained red.")
+print ("Recalls thee these words that encode")
+print ("Very lame mode")
+print ("Jacob Baker")
